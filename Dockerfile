@@ -1,4 +1,4 @@
-FROM python:3.11-slim
+FROM python:3.13.0b4-slim
 
 RUN mkdir -p /usr/src/MorningBot
 WORKDIR /usr/src/MorningBot
